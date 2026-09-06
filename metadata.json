@@ -1,0 +1,7 @@
+{
+  "name": "WTR-Sacramento",
+  "description": "Where's the Runs Sacramento — Real-time pickup basketball radar across Greater Sacramento from Roseville & Rocklin to Elk Grove.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
